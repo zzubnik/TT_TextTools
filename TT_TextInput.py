@@ -14,4 +14,4 @@ class TT_TextInput:
 
 # Register the node
 NODE_CLASS_MAPPINGS = {"TT_TextInput": TT_TextInput}
-NODE_DISPLAY_NAME_MAPPINGS = {"TT_TextInput": "TT_Text Input"}
+NODE_DISPLAY_NAME_MAPPINGS = {"TT_TextInput": "TT_TextInput"}

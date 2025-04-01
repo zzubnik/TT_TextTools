@@ -10,6 +10,6 @@ NODE_CLASS_MAPPINGS = {
 
 NODE_DISPLAY_NAME_MAPPINGS = {
     "TT_StoryCombiner": "TT_StoryCombiner",
-    "TT_TextInput": "TT_Text Input",
+    "TT_TextInput": "TT_TextInput",
     "TT_TextFileSelectorNode": "TT_TextFileSelectorNode",
 }
