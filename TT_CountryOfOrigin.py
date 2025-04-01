@@ -5,7 +5,7 @@ from typing import List
 import comfy.model_management
 from nodes import NODE_CLASS_MAPPINGS, NODE_DISPLAY_NAME_MAPPINGS
 
-class CountryOfOrigin:
+class TT_CountryOfOrigin:
     @classmethod
     def INPUT_TYPES(cls):
         options = cls.load_options()
@@ -35,5 +35,5 @@ class CountryOfOrigin:
         return (selection,)
 
 # Register the node
-NODE_CLASS_MAPPINGS["CountryOfOrigin"] = CountryOfOrigin
-NODE_DISPLAY_NAME_MAPPINGS["CountryOfOrigin"] = "CountryOfOrigin"
+NODE_CLASS_MAPPINGS["TT_CountryOfOrigin"] = TT_CountryOfOrigin
+NODE_DISPLAY_NAME_MAPPINGS["TT_CountryOfOrigin"] = "TT_CountryOfOrigin"
