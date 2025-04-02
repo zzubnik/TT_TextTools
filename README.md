@@ -20,3 +20,9 @@ A multi-line text box for feeding Story Combiner with text(s). Seen below, the n
 ![![WorkflowPreview]](https://github.com/zzubnik/TT_TextTools/blob/main/Samples/Screenshot%202025-04-02%20011420.png)
 
 TextFileSelectorNode - Will select a random line from a user specified .txt file
+
+## TT_TextReplacer
+
+Replaces a word or a phrase with another.
+
+![![WorkflowPreview]](https://github.com/zzubnik/TT_TextTools/blob/main/Samples/Screenshot%202025-04-03%20001923.png)
