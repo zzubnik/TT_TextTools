@@ -11,7 +11,7 @@ For generating multiple prompts from sets of words. Lets you create a lot of var
 ![![WorkflowPreview]](https://github.com/zzubnik/TT_TextTools/blob/main/Samples/Screenshot%202025-04-02%20004227.png)
 
 # TextInput
-A multi-line text box for feeding Story Combiner with text(s)
+A multi-line text box for feeding Story Combiner with text(s). Seen below, the nodes select a random line each time to contribute to the story.
 
 ![![WorkflowPreview]](https://github.com/zzubnik/TT_TextTools/blob/main/Samples/Screenshot%202025-04-02%20011420.png)
 
