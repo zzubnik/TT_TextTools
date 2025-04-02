@@ -1,7 +1,7 @@
 # TT_TextTools
 Custom text tools for prompt generation in ComfyUI. These tools allow more variety than just relying on the randomness of the image generator. You can create related, themed prompts, random each time. 
 
-
+![![WorkflowPreview]](https://github.com/zzubnik/TT_TextTools/blob/main/Samples/Screenshot%202025-04-02%20213947.png)
 
 You can use your favourite chat-bot to generate the lines of text very quickly. This is randomised concatenation. You can choose between input node text, and text directly in the node. These can be mixed. Empty texts are ignored.
 
